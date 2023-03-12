@@ -18,8 +18,8 @@
       "size": [34, 35, 36, 37, 38, 39, 40],
       "price": 79.9,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/37sej5rwwbX0.png"
     },
     {
@@ -32,8 +32,8 @@
       "size": [34, 35, 36, 37, 38],
       "price": 70,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/Gfr5gGbzi1bd.png"
     },
     {
@@ -48,8 +48,8 @@
       ],
       "price": 74.25,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/zulq5uCIz9em.png"
     },
     {
@@ -62,8 +62,8 @@
       "size": [39, 40, 41, 42, 43, 44],
       "price": 80.9,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/gpEoyWzWFQKg.png"
     },
     {
@@ -76,8 +76,8 @@
       "size": [38, 39, 40, 41, 42, 43, 44],
       "price": 76.7,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/MTs7M9qrH6iF.png"
     },
     {
@@ -90,8 +90,8 @@
       "size": [34, 35, 36, 37, 38, 39, 40],
       "price": 72.6,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/IpLX2tQ5p7Uq.png"
     },
     {
@@ -104,8 +104,8 @@
       "size": [35, 36, 37, 38, 39, 40],
       "price": 49.9,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/lwK1aVIPqFvu.png"
     },
     {
@@ -118,8 +118,8 @@
       "size": [35, 36, 37, 38, 39, 40, 41, 42],
       "price": 97.98,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/RAybBUJ1AJfE.png"
     },
     {
@@ -132,8 +132,8 @@
       "size": [37, 38, 39, 40, 41, 42],
       "price": 99.98,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/PiNpKWNApZ7n.png"
     },
     {
@@ -146,8 +146,8 @@
       "size": [37, 38, 39, 40, 41, 42],
       "price": 87.7,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/lS59hcvUUTH2.png"
     },
     {
@@ -160,8 +160,8 @@
       "size": [37, 38, 39, 40, 41, 42],
       "price": 119.98,
       "isRented": false,
-      "dayStart": "",
-      "dayEnd": "",
+      "daysRent": 0,
+      "store": "",
       "img": "https://gcdnb.pbrd.co/images/Ibd4TJphzpkU.png"
     }
   ],
