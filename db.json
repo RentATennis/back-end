@@ -19,6 +19,7 @@
       "price": 79.9,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/37sej5rwwbX0.png"
     },
@@ -33,6 +34,7 @@
       "price": 70,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/Gfr5gGbzi1bd.png"
     },
@@ -49,6 +51,7 @@
       "price": 74.25,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/zulq5uCIz9em.png"
     },
@@ -63,6 +66,7 @@
       "price": 80.9,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/gpEoyWzWFQKg.png"
     },
@@ -77,6 +81,7 @@
       "price": 76.7,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/MTs7M9qrH6iF.png"
     },
@@ -91,6 +96,7 @@
       "price": 72.6,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/IpLX2tQ5p7Uq.png"
     },
@@ -105,6 +111,7 @@
       "price": 49.9,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/lwK1aVIPqFvu.png"
     },
@@ -119,6 +126,7 @@
       "price": 97.98,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/RAybBUJ1AJfE.png"
     },
@@ -133,6 +141,7 @@
       "price": 99.98,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/PiNpKWNApZ7n.png"
     },
@@ -147,6 +156,7 @@
       "price": 87.7,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/lS59hcvUUTH2.png"
     },
@@ -161,6 +171,7 @@
       "price": 119.98,
       "isRented": false,
       "daysRent": 0,
+      "dayEnd": 0,
       "store": "",
       "img": "https://gcdnb.pbrd.co/images/Ibd4TJphzpkU.png"
     }
